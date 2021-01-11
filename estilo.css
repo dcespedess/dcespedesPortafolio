@@ -1,0 +1,85 @@
+@charset "ISO-8859-1";
+.header {
+    background-image: url("https://fsb.zobj.net/crop.php?r=stf0mxYza7KYNP-mISEjToPXqQAeBe4YbE3fG2G2GAd3OkiAoiy8fVUDvr_5VeDjLv0-RQGpym_GzKNd_Xfk6nXScTilqDTzGqLCj8mXhwE69sVzA_wgi-Xe7p-DpNk_vX6zYYzKm1OPCtuH");
+    background-repeat: repeat;
+    background-position: right;
+    color: white;
+    background-size: 50%;
+    background-color: black;
+    padding-bottom: 30px;
+}
+
+.header h1 {
+    text-shadow: 1px 1px teal;
+}
+
+.header p {
+    text-shadow: 1px 1px teal;
+}
+
+.navegador {
+    border: hidden;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.link {
+    color: white;
+    opacity: 1;
+}
+
+.cuadro {
+    background-image: url("https://i.pinimg.com/originals/17/18/54/1718547cbd1e42a536d52ba711f5c200.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    text-shadow: 1px 1px gray;
+    color: silver;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+.nombre {
+    color: black;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: black;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+}
+
+button:hover,
+a:hover {
+    opacity: 1;
+}
+
+.footer4 {
+    background-image: url("http://www.hdfondos.eu/preview/get_photo/770625/1440/1080");
+    color: white;
+    opacity: 0.8;
+}
